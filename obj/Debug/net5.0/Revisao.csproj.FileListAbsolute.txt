@@ -1,0 +1,32 @@
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\x\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\x\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\x\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\x\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.exe
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.dll
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\x\Documents\MeusProjetos\Media da Turma\bin\Debug\net5.0\Revisao.pdb
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.dll
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.pdb
+C:\Users\x\Documents\MeusProjetos\Media da Turma\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
